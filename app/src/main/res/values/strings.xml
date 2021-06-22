@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DPDC Printer</string>
+    <string name="action_settings">About</string>
+    <string name="hello_world">Hello World</string>
+    <string name="btn_clear">Clear</string>
+    <string name="btn_all_message">All Message</string>
+    <string name="btn_format">Format</string>
+    <string name="btn_print">Print</string>
+    <string name="btn_connect">Connect</string>
+    <string name="printer_name">Printer Name</string>
+</resources>
